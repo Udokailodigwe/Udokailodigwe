@@ -11,6 +11,6 @@
   <br>
   ## I love building RESTfull API architechture & responsive beautiful frontend structures
   <br>
-  I am open to work with any solid team, where i can learn from and also impact heavily, my skill and experience for the optimization of the team. Email me: :email:<strong>ilodigweudoka@gmail.com</strong>  lets connect.
+  I am open to work with any solid team, where i can learn from and also impact heavily, my skill and experience for the optimization of the team. Email me: :email:<strong>udodigweudoka@gmail.com</strong>  lets connect.
 
 
