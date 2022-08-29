@@ -1,6 +1,6 @@
 ### Hello & welcome 👋
 
-  Meet Udoka, a solution-oriented software developer, who sees an opportunity for success in any life situation. 
+  I am Udoka, a solution-oriented software developer, who sees an opportunity for success in any life situation. 
 <br>
 <br>
   I am a core user-centric developer, and I deeply understand the main criteria that make a product outstanding.
