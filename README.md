@@ -9,7 +9,7 @@
   I have the ability to apply different technologies within my tool belt in combination with my solid experience in users-first principles to create a product that best serves the market's interests and expectations
   <br>
   <br>
-  ## I love building RESTfull API architechture & responsive beautiful frontend structures
+  ## I build RESTfull API architechture & responsive UIs
   <br>
   I am open to work with any solid team, where i can learn from and also impact heavily, my skill and experience for the optimization of the team. Email me: :email:<strong>udodigweudoka@gmail.com</strong>  lets connect.
 
