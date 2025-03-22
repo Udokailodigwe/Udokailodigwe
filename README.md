@@ -1,6 +1,6 @@
 ### Hello & welcome 👋
 
- Hey! I’m a fullstack developer who loves creating web apps that people enjoy using. From designing smooth, intuitive interfaces to building out the logic behind the scenes, I’m all about making ideas come to life. Check out my work, and let’s collaborate on something cool! Email me: :email:<strong>ilodigweudoka@gmail.com</strong>  lets connect.
+  Results-driven Full Stack Developer with extensive experience in building high-performance, scalable applications. Skilled in optimizing response times between databases, clients, and servers to ensure seamless user experiences. Security-focused, implementing extensive-layered protection to safeguard data and system integrity while driving innovation in cloud-based solutions. Email me: :email:<strong>ilodigweudoka@gmail.com</strong>  lets connect.
 
 <div align="center">  
   <div>
@@ -31,6 +31,9 @@
     <img src="https://img.shields.io/badge/Nodemailer-346F98?style=for-the-badge&logo=nodemailer&logoColor=white" alt="nodemailer" />
     <img src="https://img.shields.io/badge/Hostinger_VPS-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="hostinger VPS" />
     <img src="https://img.shields.io/badge/Arcjet-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzQiIGhlaWdodD0iMzQiIHZpZXdCb3g9IjAgMCAzNCAzNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imhttp://www.w3.org/2000/svgIj48cGF0aCBkPSJNMzMgMThDMzMgMjUuNzI4IDI3LjczIDMyIDIxIDEySDFWMTBDNy4yNzIgMTAgMTMgMTUuMjcgMTMgMjFDMTMgMjYuNzMgNy4yNzIgMzIgMSAzMkgxMUMxNy43MjggMzIgMjMgMjYuNzMgMjMgMjFDMjMgMTUuMjcgMTcuNzMgMTAgMTEgMTBIMzdWMTBaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white" alt="arcjet" />
-    
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+    <img src="https://img.shields.io/badge/Memcached-013C57?style=for-the-badge&logo=memcached&logoColor=white" alt="Memcached" />
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />  
   </div>
 </div>
