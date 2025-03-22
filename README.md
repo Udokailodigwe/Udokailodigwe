@@ -38,4 +38,4 @@
   </div>
 </div>
 
-# Fun Fact:  ⚡ **Octopuses have three hearts and blue blood!** 🐙💙 Talk about an overachiever!
+ **Fun Fact**:  ⚡ *Octopuses have three hearts and blue blood!* 🐙💙 Talk about an overachiever!
