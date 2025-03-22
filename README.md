@@ -37,3 +37,6 @@
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />  
   </div>
 </div>
+
+## ⚡ Fun Fact  
+- ⚡ **Octopuses have three hearts and blue blood!** 🐙💙 Talk about an overachiever!
